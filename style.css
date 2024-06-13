@@ -1,0 +1,173 @@
+/* Style for the SVG canvas */
+#visualization svg {
+    width: 100vw;        
+    height: 100vh;       
+    background-color: #f8f8f8;
+    border: none;  
+    overflow: visible;
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;          
+}
+
+/* Style of generationSelector */
+#generationSelector {
+    font-size: 14px;
+    margin-bottom: 15px; /* spacing between listbox and your visualization */
+    padding: 8px 12px;
+    padding-right: 40px;
+    border: 2px solid #888;
+    border-radius: 8px;
+    background-color: #f7f7f7;
+    color: #444;
+    box-shadow: 0px 3px 8px #228B22;
+    transition: all 0.3s ease-in-out;
+
+    /* Customize the dropdown arrow to make it look consistent */
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448.8 448.8"><path d="M224.4 301.1l168.4-168.4c4.7-4.7 4.7-12.3 0-17L377.4 83c-4.7-4.7-12.3-4.7-17 0L224.4 218.6 88.4 83c-4.7-4.7-12.3-4.7-17 0L55.4 115.7c-4.7 4.7-4.7 12.3 0 17l168.4 168.4c4.8 4.7 12.4 4.7 17.2 0z" fill="%23444"/></svg>');
+    background-repeat: no-repeat;
+    background-position: right 7px center;
+}
+
+/* Style for searching area and button */
+#searchField, #searchButton {
+    position: absolute;
+    z-index: 10; 
+}
+
+/* Style for searching area */
+#searchField {
+    top: 10px;
+    left: 10px;
+    padding: 8px 12px;
+    border: 2px solid #228B22;
+    border: none;
+    border-radius: 8px;
+    background-color: #f7f7f7;
+    color: #444;
+    box-shadow: 0px 3px 8px #228B22;
+}
+
+/* Style for search button */
+#searchButton {
+    top: 10px;
+    left: calc(10px + 200px + 8px);
+    padding: 8px 16px;
+    border: none;
+    border-radius: 8px;
+    background-color: #555;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    box-shadow: 0px 3px 8px #228B22;
+}
+
+#searchButton:hover {
+    background-color: #228B22;
+}
+
+/* Style for reset button */
+#resetButton {
+    position: absolute;
+    z-index: 10; 
+    top: 10px; /* The height of searchButton + spacing */
+    left: 300px;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 8px;
+    background-color: #888;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    box-shadow: 0px 3px 8px #228B22;
+}
+
+#resetButton:hover {
+    background-color: #228B22;
+}
+
+/* Style for zoom Button */
+#zoomButton{
+    position: absolute;
+    z-index: 10; 
+    top: 10px; /* The height of searchButton + spacing */
+    left: 375px;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 8px;
+    background-color: #888;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    box-shadow: 0px 3px 8px #228B22;
+}
+
+#zoomButton:hover {
+    background-color: #228B22;
+}
+
+/* Style for highlighing the rectangles */
+.highlight rect {
+    stroke: red;
+    stroke-width: 4;
+}
+
+#generationSelector:hover {
+    border-color: #228B22;
+}
+
+#generationSelector:focus {
+    border-color: #228B22;
+    outline: none;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+/* Style for nodes */
+.node {
+    cursor: pointer;
+    filter: drop-shadow(2px 2px 3px rgba(0, 0, 0, 0.2)); /* Adds shadow to the node for depth */
+}
+
+.node text {
+    font: 12px sans-serif;
+    fill: black; /* Text color */
+    text-shadow: 0px 1px 2px rgba(255, 255, 255, 0.5); /* Light shadow for better text readability */
+}
+
+/* Style for links between nodes */
+.link {
+    fill: none;
+    stroke: #228B22; /* Color of the link */
+    stroke-opacity: 0.5;
+    stroke-width: 1.5;
+}
+
+.link:active {
+    stroke-opacity: 0.8; /* Slightly darker when active */
+}
+
+
+.link-icon {
+    fill: blue;       
+    cursor: pointer;  
+}
+
+/* Style for tooltip */
+.tooltip {
+    z-index: 1000;
+    position: absolute;
+    text-align: center;
+    width: 200px;
+    height: auto;
+    padding: 10px;
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    pointer-events: none;
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.1);
+}
+

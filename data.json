@@ -1,0 +1,1201 @@
+{
+  "name": "EFC",
+  "children": [
+    {
+      "name": "е-Минфин",
+      "children": [
+        {
+          "name": "eMF_Функциональный состав и требования",
+          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751916",
+          "children": [
+            {
+              "name": "AC_Аналитический центр",
+              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751928",
+              "children": [
+                {
+                  "name": "AD_Компонент «Администрирование»",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751982"
+                },
+                {
+                  "name": "CM_Компонент «Управление бюджетными деньгами»",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752186"
+                },
+                {
+                  "name": "EA_Компонент «Анализ исполнения расходной части государственного бюджета»",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752184"
+                },
+                {
+                  "name": "MM_Компонент «Математические модели, описывающие деятельность организации»",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752188"
+                },
+                {
+                  "name": "MR_Компонент «Мониторинг межбюджетных отношений»",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752177"
+                },
+                {
+                  "name": "RA_Компонент «Анализ исполнения доходной части государственного бюджета»",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752179"
+                },
+                {
+                  "name": "ST_Компонент «Формирование отчетности и статистики по государственным финансам, анализ исполнения бюджетов, подготовка аналитических материалов»",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752190",
+                  "children": [
+                    {
+                      "name": "UC.AC.ST.IB.03.01 Отчет об исполнении Консолидированного бюджета",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752271"
+                    },
+                    {
+                      "name": "UC.AC.ST.IB.03.02 Отчет об исполнении Консолидированного бюджета в развернутом виде",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752274"
+                    },
+                    {
+                      "name": "Требования_оформление для документирования",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752579"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "BU_Бухгалтерский учет",
+              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751942",
+              "children": [
+                {
+                  "name": "MM_Управление запасами",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752732",
+                  "children": [
+                    {
+                      "name": "IM_Управление материальными потоками",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752734"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "BW_Хранилище данных, включая НСИ, архив исторических данных",
+              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751930"
+            },
+            {
+              "name": "CONS_Сбор и консолидация финансовой и бюджетной отчетности",
+              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751925",
+              "children": [
+                {
+                  "name": "BG_Процесс фонового режима формирования входных форм",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751979"
+                },
+                {
+                  "name": "BW_Выгрузка данных в подсистему «Хранилище данных»",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751958"
+                },
+                {
+                  "name": "CON_Консолидация отчетных данных",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751954"
+                },
+                {
+                  "name": "DEL_Предоставление отчетности",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751950"
+                },
+                {
+                  "name": "NSI_Интеграция c компонентой «Управление НСИ» подсистемы ХД",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751973"
+                },
+                {
+                  "name": "OT_Интеграция с ХД в части хранения документов",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751960"
+                },
+                {
+                  "name": "REF_Режим «Справка»",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751977"
+                },
+                {
+                  "name": "REP_Формирование отчетности",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751956"
+                },
+                {
+                  "name": "RUL_Правила консолидации",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751952"
+                },
+                {
+                  "name": "TRANS_Перевод интерфейса",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751975"
+                }
+              ]
+            },
+            {
+              "name": "GLC_Исполнение ГБ в части государственного заимствования и кредитования",
+              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751932"
+            },
+            {
+              "name": "HR_Управление кадровым потенциалом, формирование и предоставление отчетов по кадровому составу МФ РК",
+              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751940"
+            },
+            {
+              "name": "SUR_Финансовый контроль и Система управления рисками",
+              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751938"
+            },
+            {
+              "name": "YO_Юридическое обеспечение",
+              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751944"
+            }
+          ]
+        },
+        {
+          "name": "eMF_Модификации",
+          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752008",
+          "children": [
+            {
+              "name": "Модификации 2023",
+              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752010",
+              "children": [
+                {
+                  "name": "AC_Модификации",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752279",
+                  "children": [
+                    {
+                      "name": "Формирование отчета об исполнении консолидированного бюджета",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752281"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "ИСГП (БП)",
+      "children": [
+        {
+          "name": "ISBP_Функциональный состав и требования",
+          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752030",
+          "children": [
+            {
+              "name": "BP_Бюджетное планирование",
+              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752034",
+              "position": "left"
+            },
+            {
+              "name": "SP_Стратегическое планирование",
+              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752037",
+              "children": [
+                {
+                  "name": "GSPD_Государственные и стратегические документы",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752077",
+                  "position": "left"
+                },
+                {
+                  "name": "NP_Национальные проекты",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752039",
+                  "position": "left"
+                },
+                {
+                  "name": "KD_Концепции развития",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752088",
+                  "position": "left"
+                },
+                {
+                  "name": "PDGA_Планы развития ГО",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752080",
+                  "position": "left"
+                },
+                {
+                  "name": "OPGA_Оперпланы ПРГО",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752084",
+                  "position": "left"
+                },
+                {
+                  "name": "DPT_Планы развития регионов",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752082",
+                  "position": "left"
+                },
+                {
+                  "name": "APDPT_План мероприятий ПРР",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752086",
+                  "position": "left"
+                },
+                {
+                  "name": "Планы развития национальных холдингов",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752090",
+                  "position": "left"
+                }
+              ],
+              "position": "left"
+            }
+          ],
+          "position": "left"
+        },
+        {
+          "name": "ISBP_Модификации",
+          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752041",
+          "children": [
+            {
+              "name": "Модификации 2023",
+              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752043",
+              "children": [
+                {
+                  "name": "SP_Модификации",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752045",
+                  "children": [
+                    {
+                      "name": "NP_модификации",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752047",
+                      "children": [
+                        {
+                          "name": "Декомпозиция показателей НП в разрезе регионов для отображения их в ПРР",
+                          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752051",
+                          "position": "left"
+                        }
+                      ],
+                      "position": "left"
+                    }
+                  ],
+                  "position": "left"
+                }
+              ],
+              "position": "left"
+            }
+          ],
+          "position": "left"
+        }
+      ],
+      "position": "left"
+    },
+    {
+      "name": "ECD",
+      "children": [
+        {
+          "name": "EGZ",
+          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=EGZ_2261043",
+          "children": [
+            {
+              "name": "Бизнес- процессы EGZ",
+              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261057",
+              "children": [
+                {
+                  "name": "Модуль \"Регистрация\" EGZ",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261067"
+                },
+                {
+                  "name": "Модуль \"Планирование\" EGZ",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261059"
+                },
+                {
+                  "name": "Модуль \"Закупки\" EGZ",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261061",
+                  "children": [
+                    {
+                      "name": "Бизнес-процессы ALL EGZ",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261091",
+                      "children": [
+                        {
+                          "name": "Создание закупки ALL EGZ",
+                          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261295",
+                          "children": [
+                            {
+                              "name": "Создание проекта объявления ALL EGZ",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261303"
+                            },
+                            {
+                              "name": "Добавление лотов в проект объявления ALL EGZ",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261309"
+                            },
+                            {
+                              "name": "Добавление объеденного лота ALL EGZ",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261311"
+                            },
+                            {
+                              "name": "Ввод данных по лотам ALL EGZ",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261313"
+                            },
+                            {
+                              "name": "Добавление данных по представителям организатора/заказчика ALL EGZ",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261315"
+                            },
+                            {
+                              "name": "Добавление комиссии ALL EGZ",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261318"
+                            },
+                            {
+                              "name": "Добавление документации ALL EGZ",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261320",
+                              "children": [
+                                {
+                                  "name": "Формирование и подписание конкурсной/аукционной документации ALL EGZ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261323",
+                                  "children": [
+                                    {
+                                      "name": "Формирование конкурсной/аукционной документации ALL EGZ",
+                                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261325"
+                                    },
+                                    {
+                                      "name": "Подписание конкурсной/аукционной документации ALL EGZ",
+                                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261327"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Добавление данных о лицензиях  ALL EGZ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261329"
+                                },
+                                {
+                                  "name": "Добавление данных о разрешениях ALL EGZ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261331"
+                                },
+                                {
+                                  "name": "Формирование квалификационных требований организатора при закупках товаров ALL EGZ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261333"
+                                },
+                                {
+                                  "name": "Формирование квалификационных требований организатора при закупках услуг ALL EGZ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261446"
+                                },
+                                {
+                                  "name": "Формирование квалификационных требований организатора при закупках работ ALL EGZ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261448"
+                                },
+                                {
+                                  "name": "Прикрепление файла \"Заключение комплексной вневедомственной экспертизы\" ALL EGZ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261450"
+                                },
+                                {
+                                  "name": "Формирование проекта договора ALL EGZ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261452"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Публикация объявления ALL EGZ",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261454"
+                            },
+                            {
+                              "name": "Удаление объявления ALL EGZ",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261456"
+                            },
+                            {
+                              "name": "Удаление лотов ALL EGZ",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261458"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Проведение закупки ALL EGZ",
+                          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261297",
+                          "children": [
+                            {
+                              "name": "Обсуждение документации ALL EGZ",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261592"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Участие в закупке ALL EGZ",
+                          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261119",
+                          "children": [
+                            {
+                              "name": "Создание и подача заявки",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752741",
+                              "children": [
+                                {
+                                  "name": "Добавление лотов для участия в закупке",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752743"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Заполнение данных о бенефициаре",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261121",
+                              "children": [
+                                {
+                                  "name": "Прикрепление данных о бенефициарном владении",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261123"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Заполнение технической спецификации из ЭКТ",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752296"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Конкурс EGZ",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261093",
+                      "children": [
+                        {
+                          "name": "ОК EGZ",
+                          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261101",
+                          "children": [
+                            {
+                              "name": "ALL Shema ОК EGZ",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261184"
+                            },
+                            {
+                              "name": "Создание закупки ОК EGZ",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261537",
+                              "children": [
+                                {
+                                  "name": "Список UC и схема создания закупки ОК EGZ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261541"
+                                },
+                                {
+                                  "name": "Создание проекта объявления OK EGZ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751707"
+                                },
+                                {
+                                  "name": "Добавление лотов в проект объявления OK EGZ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751711"
+                                },
+                                {
+                                  "name": "Добавление объеденного лота OK EGZ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751712"
+                                },
+                                {
+                                  "name": "Ввод данных по лотам OK EGZ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751713"
+                                },
+                                {
+                                  "name": "Добавление данных по представителям организатора/заказчика OK EGZ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751714"
+                                },
+                                {
+                                  "name": "Добавление комиссии OK EGZ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751715"
+                                },
+                                {
+                                  "name": "Добавление документации OK EGZ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751716",
+                                  "children": [
+                                    {
+                                      "name": "Формирование и подписание конкурсной/аукционной документации OK EGZ",
+                                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751717",
+                                      "children": [
+                                        {
+                                          "name": "Формирование конкурсной/аукционной документации OK EGZ",
+                                          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751718"
+                                        },
+                                        {
+                                          "name": "Подписание конкурсной/аукционной документации OK EGZ",
+                                          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751719"
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "Добавление данных о лицензиях  OK EGZ",
+                                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751720"
+                                    },
+                                    {
+                                      "name": "Добавление данных о разрешениях OK EGZ",
+                                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751721"
+                                    },
+                                    {
+                                      "name": "Формирование квалификационных требований организатора при закупках товаров OK EGZ",
+                                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751722"
+                                    },
+                                    {
+                                      "name": "Формирование квалификационных требований организатора при закупках услуг OK EGZ",
+                                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751723"
+                                    },
+                                    {
+                                      "name": "Формирование квалификационных требований организатора при закупках работ OK EGZ",
+                                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751724"
+                                    },
+                                    {
+                                      "name": "Прикрепление файла \"Заключение комплексной вневедомственной экспертизы\" OK EGZ",
+                                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751725"
+                                    },
+                                    {
+                                      "name": "Формирование проекта договора OK EGZ",
+                                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751726"
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "Публикация объявления OK EGZ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751727"
+                                },
+                                {
+                                  "name": "Удаление объявления OK EGZ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751728"
+                                },
+                                {
+                                  "name": "Удаление лотов OK EGZ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751729"
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "КРБС EGZ",
+                          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261103"
+                        },
+                        {
+                          "name": "1 этап РС EGZ",
+                          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261109",
+                          "children": [
+                            {
+                              "name": "Создание закупки 1 этап РС EGZ",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261681",
+                              "children": [
+                                {
+                                  "name": "Создание проекта объявления 1 этап РС EGZ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261776"
+                                },
+                                {
+                                  "name": "Добавление лотов в проект объявления 1 этап РС EGZ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261778"
+                                },
+                                {
+                                  "name": "Добавление данных по представителям 1 этап РС EGZ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261780"
+                                },
+                                {
+                                  "name": "Добавление комиссии 1 этап РС EGZ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261782"
+                                },
+                                {
+                                  "name": "Добавление документации 1 этап РС EGZ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261784"
+                                },
+                                {
+                                  "name": "Публикация объявления 1 этап РС EGZ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261786"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Проведение закупки 1 этап РС EGZ",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261765"
+                            },
+                            {
+                              "name": "Участие в закупке 1 этап РС EGZ",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261774"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "2 этап РС EGZ",
+                          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261111"
+                        },
+                        {
+                          "name": "ГСЗ EGZ",
+                          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261107",
+                          "children": [
+                            {
+                              "name": "Создание закупки ГСЗ EGZ",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752999",
+                              "children": [
+                                {
+                                  "name": "Создание проекта объявления ГСЗ EGZ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4753006"
+                                },
+                                {
+                                  "name": "Добавление лотов в проект объявления ГСЗ EGZ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4753008"
+                                },
+                                {
+                                  "name": "Добавление данных по представителям ГСЗ EGZ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4753010"
+                                },
+                                {
+                                  "name": "Добавление комиссии ГСЗ EGZ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4753012"
+                                },
+                                {
+                                  "name": "Добавление документации ГСЗ EGZ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4753014"
+                                },
+                                {
+                                  "name": "Публикация объявления ГСЗ EGZ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4753021"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Проведение закупки ГСЗ EGZ",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4753023"
+                            },
+                            {
+                              "name": "Заполнение условных скидок ГСЗ EGZ",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4753025"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Формирование протокола итогов ГСЗ EGZ",
+                          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4753028"
+                        },
+                        {
+                          "name": "Закупка жилища EGZ",
+                          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261113"
+                        },
+                        {
+                          "name": "КПКО EGZ",
+                          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261105"
+                        },
+                        {
+                          "name": "Конкурс 2-х этапных процедур EGZ",
+                          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261115"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Аукцион EGZ",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261526"
+                    },
+                    {
+                      "name": "ЗЦП EGZ",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261528"
+                    },
+                    {
+                      "name": "ИОИ по несостоявшимся закупкам EGZ",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261530"
+                    },
+                    {
+                      "name": "Особый порядок EGZ",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261532",
+                      "children": [
+                        {
+                          "name": "Создание и публикация объявления особый порядок EGZ",
+                          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261974",
+                          "children": [
+                            {
+                              "name": "Публикация закупки особый порядок EGZ",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261988"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Модуль \"Договоры\" EGZ",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261083",
+                  "children": [
+                    {
+                      "name": "Проверка благонадежности Заказчика",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752758"
+                    },
+                    {
+                      "name": "Просмотр сроков счетчика",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751821",
+                      "children": [
+                        {
+                          "name": "Счетчик договоров по внесению обеспечения исполнения",
+                          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751882"
+                        },
+                        {
+                          "name": "Счетчиков договоров на подписании",
+                          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751885"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Согласование договора Поставщиком",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4753094"
+                    }
+                  ]
+                },
+                {
+                  "name": "Модуль \"Обжалование\" EGZ",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261069"
+                },
+                {
+                  "name": "Модуль \"Камеральный контроль\" EGZ",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261071"
+                },
+                {
+                  "name": "Модуль \"Интеграции\" EGZ",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261076"
+                },
+                {
+                  "name": "Модуль \"Электронный кошелек\" EGZ",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261074"
+                },
+                {
+                  "name": "Модуль \"Единый организатор\" EGZ",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261078"
+                },
+                {
+                  "name": "Модуль \"Рабочий кабинет\" EGZ",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261089"
+                },
+                {
+                  "name": "Модуль \"Электронный государственный аудит\" EGZ",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261087"
+                },
+                {
+                  "name": "Модуль \"Мобильное приложение\" EGZ",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261085"
+                },
+                {
+                  "name": "Модуль \"Отчетность\" EGZ",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751505"
+                }
+              ]
+            },
+            {
+              "name": "Модификации EGZ",
+              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261272",
+              "children": [
+                {
+                  "name": "2023 EGZ",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2023-EGZ_2261578",
+                  "children": [
+                    {
+                      "name": "1 квартал EGZ",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261280",
+                      "children": [
+                        {
+                          "name": "<Наименование модификации 1>",
+                          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261288"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "2 квартал EGZ",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261282",
+                      "children": [
+                        {
+                          "name": "Модуль \"Договоры\"",
+                          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751989",
+                          "children": [
+                            {
+                              "name": "Модификация \"счетчика\" по договорам на подписании",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751827"
+                            },
+                            {
+                              "name": "Модификация \"счетчика\" по договоров по внесению обеспечения",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751891"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Модуль \"Закупки\"",
+                          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751992",
+                          "children": [
+                            {
+                              "name": "Модификация способа закупки \"Особый порядок\" для государственных закупок",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261968"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "3 квартал EGZ",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261284",
+                      "children": [
+                        {
+                          "name": "Мобильное приложение",
+                          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751471",
+                          "children": [
+                            {
+                              "name": "1 этап",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752769"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Модуль \"Интеграции\"",
+                          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752299"
+                        },
+                        {
+                          "name": "Модуль Договоры",
+                          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752674",
+                          "children": [
+                            {
+                              "name": "Модификация в части проверки благонадёжности заказчика",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752676"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Модуль Закупки",
+                          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752749",
+                          "children": [
+                            {
+                              "name": "Модификация в части осуществления проверки на благонадежность заказчика при подачи заявки поставщиками ",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752751"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "4 квартал EGZ",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261286"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "KVAZY",
+          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=KVAZY_2261053",
+          "children": [
+            {
+              "name": "Бизнес- процессы KVAZY",
+              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752479",
+              "children": [
+                {
+                  "name": "Модуль \"Закупки\" KVAZY",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752481",
+                  "children": [
+                    {
+                      "name": "Тендер KVAZY",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752483",
+                      "children": [
+                        {
+                          "name": "Создание закупки Тендер KVAZY",
+                          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752485"
+                        },
+                        {
+                          "name": "Участие Тендер KVAZY",
+                          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752492",
+                          "children": [
+                            {
+                              "name": "Создание заявки Тендер KVAZY",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752668"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Проведение Тендер KVAZY",
+                          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752490",
+                          "children": [
+                            {
+                              "name": "Заполнение условных скидок Тендер KVAZY",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752500"
+                            },
+                            {
+                              "name": "Формирование протокола итогов Тендер KVAZY",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752502"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Модификации KVAZY",
+              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752691",
+              "children": [
+                {
+                  "name": "3 квартал  Модификации KVAZY",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752694",
+                  "children": [
+                    {
+                      "name": "Модификация способа закупки \"Тендер\" KVAZY",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752696"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SKF",
+          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=SKF_2261049",
+          "children": [
+            {
+              "name": "Бизнес-процессы SKF",
+              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261096",
+              "children": [
+                {
+                  "name": "Модуль \"Согласование графиков поставки\" SKF",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751794",
+                  "children": [
+                    {
+                      "name": "Отправление графиков поставки на рассмотрение поставщику SKF",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751802"
+                    },
+                    {
+                      "name": "Подтверждение / Отказ  графиков поставки поставщиком",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751816"
+                    },
+                    {
+                      "name": "Рассмотрение графиков поставки заказчиком SKF",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751811"
+                    },
+                    {
+                      "name": "Рассмотрение графиков поставки поставщиком SKF",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4751806"
+                    }
+                  ]
+                },
+                {
+                  "name": "Модуль \"Электронные банковские гарантии\"",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752656",
+                  "children": [
+                    {
+                      "name": "Изменение суммы электронной банковской гарантии",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752661"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FSMS",
+          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=FSMS_2261051",
+          "children": [
+            {
+              "name": "Бизнес-процессы FSMS",
+              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261650",
+              "children": [
+                {
+                  "name": "Модуль \"База данных субъектов здравоохранения\" FSMS",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261660"
+                },
+                {
+                  "name": "Модуль \"Планирование\" FSMS",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261657"
+                },
+                {
+                  "name": "Модуль \"Закупки\" FSMS",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261652",
+                  "children": [
+                    {
+                      "name": "Создание закупки ЗМУ",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261756"
+                    },
+                    {
+                      "name": "Участие в закупке ЗМУ",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261759",
+                      "children": [
+                        {
+                          "name": "Создание и подача заявок ЗМУ",
+                          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261795",
+                          "children": [
+                            {
+                              "name": "Добавление лотов в заявку ЗМУ",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261801"
+                            },
+                            {
+                              "name": "Заполнение документации ЗМУ",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261804",
+                              "children": [
+                                {
+                                  "name": "Добавление лицензий ЗМУ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261810"
+                                },
+                                {
+                                  "name": "Заполнение сведений об опыте работы ЗМУ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261816"
+                                },
+                                {
+                                  "name": "Обязательство о непредоставлении услуг по оказанию медицинской помощи на платной основе",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261818"
+                                },
+                                {
+                                  "name": "Формирование заявки на планируемые объемы ЗМУ",
+                                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261814"
+                                }
+                              ]
+                            },
+                            {
+                              "name": "Подача заявки ЗМУ",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261806"
+                            },
+                            {
+                              "name": "Создание проекта заявки ЗМУ",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261799"
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "Проведение закупки ЗМУ",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261761"
+                    }
+                  ]
+                },
+                {
+                  "name": "Модуль \"Отчетность\" FSMS",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261664"
+                },
+                {
+                  "name": "Модуль \"Договоры\" FSMS",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752813",
+                  "children": [
+                    {
+                      "name": "Протоколы исполнения (FSMS)",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752957",
+                      "children": [
+                        {
+                          "name": "Состав протоколов",
+                          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752968",
+                          "children": [
+                            {
+                              "name": "Состав протокола: Кровь",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752975"
+                            },
+                            {
+                              "name": "Состав протокола: ПМСП",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4753265"
+                            },
+                            {
+                              "name": "Состав протокола: Псих-нарко",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4753259"
+                            },
+                            {
+                              "name": "Состав протокола: Скорая медицинская помощь",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752970"
+                            },
+                            {
+                              "name": "Состав протокола: Туберкулез",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4753221"
+                            }
+                          ]
+                        },
+                        {
+                          "name": "Сценарии протокола исполнения FSMS",
+                          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4753362",
+                          "children": [
+                            {
+                              "name": "Создание протокола исполнения",
+                              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4753370"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "Модуль \"Интеграции\" FSMS",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=4752966"
+                }
+              ]
+            },
+            {
+              "name": "Модификации FSMS",
+              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261666",
+              "children": [
+                {
+                  "name": "2023 FSMS",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2023-FSMS_2261675",
+                  "children": [
+                    {
+                      "name": "2 квартал FSMS",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261668",
+                      "children": [
+                        {
+                          "name": "Поэтапное формирование проекта заявки на планируемые объемы и подписание документов Руководителем",
+                          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261677"
+                        }
+                      ]
+                    },
+                    {
+                      "name": "3 квартал FSMS",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261670"
+                    },
+                    {
+                      "name": "4 квартал FSMS",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261672"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MINZDRAV",
+          "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=MINZDRAV_2261047",
+          "children": [
+            {
+              "name": "Бизнес-процессы MINZDRAV",
+              "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261728",
+              "children": [
+                {
+                  "name": "Модуль \"Договоры\" MINZDRAV",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261959"
+                },
+                {
+                  "name": "Модуль \"Закупки\" MINZDRAV",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2262046",
+                  "children": [
+                    {
+                      "name": "Тендер MINZDRAV",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2262049"
+                    }
+                  ]
+                },
+                {
+                  "name": "Модуль \"Интеграция\" MINZDRAV",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261948",
+                  "children": [
+                    {
+                      "name": "Интеграция 1С с ИС «ЭКЗ»",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261926"
+                    },
+                    {
+                      "name": "Интеграция ИС банка с ИС «ЭКЗ»",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261797"
+                    }
+                  ]
+                },
+                {
+                  "name": "Модуль \"Планирование\" MINZDRAV",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2262044"
+                },
+                {
+                  "name": "Модуль \"Регистрация\" MINZDRAV",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261957",
+                  "children": [
+                    {
+                      "name": "Регистрация и оплата услуг",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261740"
+                    }
+                  ]
+                },
+                {
+                  "name": "Модуль \"Электронный кошелек\" MINZDRAV",
+                  "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261737",
+                  "children": [
+                    {
+                      "name": "Лицевой счет",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261811"
+                    },
+                    {
+                      "name": "Получение входящих платежных поручений",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261848"
+                    },
+                    {
+                      "name": "Внесение абонентской платы",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261882"
+                    },
+                    {
+                      "name": "Акт оказанных услуг",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2261981"
+                    },
+                    {
+                      "name": "Возвраты",
+                      "url": "https://confluence.ecc.kz/pages/viewpage.action?pageId=2262005"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
